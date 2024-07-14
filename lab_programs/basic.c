@@ -75,15 +75,17 @@
 
 */
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
+// #include <stdio.h>
+// #include <stdlib.h>
+// #include <time.h>
 
-int main()
-{
-    srand(time(0));
-    int rn = rand() % 10 + 1;
-    printf("random number: %d\n", rn);
+// int main()
+// {
+//     srand(time(0));
+//     int rn = rand() % 10 + 1;
+//     printf("random number: %d\n", rn);
 
-    return 0;
-}
+//     return 0;
+// }
+
+
